@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "R. The Gift Problem", "R. The Gift Problem\R. The Gift Problem.vcxproj", "{328583DC-9447-4FB9-8108-3CE76DDDEBF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{328583DC-9447-4FB9-8108-3CE76DDDEBF3}.Debug|x64.ActiveCfg = Debug|x64
+		{328583DC-9447-4FB9-8108-3CE76DDDEBF3}.Debug|x64.Build.0 = Debug|x64
+		{328583DC-9447-4FB9-8108-3CE76DDDEBF3}.Debug|x86.ActiveCfg = Debug|Win32
+		{328583DC-9447-4FB9-8108-3CE76DDDEBF3}.Debug|x86.Build.0 = Debug|Win32
+		{328583DC-9447-4FB9-8108-3CE76DDDEBF3}.Release|x64.ActiveCfg = Release|x64
+		{328583DC-9447-4FB9-8108-3CE76DDDEBF3}.Release|x64.Build.0 = Release|x64
+		{328583DC-9447-4FB9-8108-3CE76DDDEBF3}.Release|x86.ActiveCfg = Release|Win32
+		{328583DC-9447-4FB9-8108-3CE76DDDEBF3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F107EEC-D3C0-4A0D-8869-D8C1D32FF081}
+	EndGlobalSection
+EndGlobal
